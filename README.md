@@ -12,12 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/lamld203844">
-    <img src="https://komarev.com/ghpvc/?username=lamld203844&color=blue&style=flat)" />
-  </a>
-</p>
-
 
 <!--
 **lamld203844/lamld203844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
